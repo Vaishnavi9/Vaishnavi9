@@ -26,8 +26,6 @@ Exploring spirituality and creative arts 🎨
 
 Running my YouTube channel where I share pieces of art and peace
 
-📫 Connect with me
-
 ## 📫 Connect with me (Links will open in the same tab on GitHub)
 - 🌐 <a href="https://govidivenivici.com" target="_blank">govidivenivici.com</a>  
 - 💼 <a href="https://www.linkedin.com/in/vaishnavi-dhanwade/" target="_blank">LinkedIn</a>  
