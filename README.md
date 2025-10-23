@@ -28,7 +28,7 @@ Running my YouTube channel where I share pieces of art and peace
 
 📫 Connect with me
 
-🌐 Website: govidivenivici.com
+🌐 Website: [govidivenivici.com](https://govidivenivici.com)
 
 💼 LinkedIn: linkedin.com/in/vaishnavi-dhanwade
 
