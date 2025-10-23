@@ -32,6 +32,6 @@ Running my YouTube channel where I share pieces of art and peace
 
 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/vaishnavi-dhanwade/)
 
-📺 YouTube: [YouTube @soulfulEscape9](https://www.youtube.com/@soulfulEscape9)
+📺 YouTube: [@soulfulEscape9](https://www.youtube.com/@soulfulEscape9)
 
 ⭐ “I’m still learning, one project at a time — and that’s what makes this journey meaningful.”
