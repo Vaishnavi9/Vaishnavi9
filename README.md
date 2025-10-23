@@ -28,10 +28,9 @@ Running my YouTube channel where I share pieces of art and peace
 
 📫 Connect with me
 
-🌐 Website: [govidivenivici.com](https://govidivenivici.com)
-
-💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/vaishnavi-dhanwade/)
-
-📺 YouTube: [@soulfulEscape9](https://www.youtube.com/@soulfulEscape9)
+## 📫 Connect with me
+- 🌐 <a href="https://govidivenivici.com" target="_blank">govidivenivici.com</a>  
+- 💼 <a href="https://www.linkedin.com/in/vaishnavi-dhanwade/" target="_blank">LinkedIn</a>  
+- 📺 <a href="https://www.youtube.com/@soulfulEscape9" target="_blank">YouTube @soulfulEscape9</a>  
 
 ⭐ “I’m still learning, one project at a time — and that’s what makes this journey meaningful.”
